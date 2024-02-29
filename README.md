@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **ReactJS & NextJS**
 
-- 💬 Ask me about **JavaScript, ReactJS**
+- 💬 Ask me about **JavaScript, ReactJS and Fronrend **
 
 - 📫 How to reach me **abdullahaha101@gmail.com**
-
-- ⚡ Fun fact **I code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
