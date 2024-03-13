@@ -1,6 +1,5 @@
-## Hi It's Abdullah 
-### Full Stack Developer specilaized in Frontend Development 
-
+## Hi It's Muhammad Abdullah 
+#### Full Stack Developer specialized in Frontend Development 
 
 
 ## 🌐 Socials:
